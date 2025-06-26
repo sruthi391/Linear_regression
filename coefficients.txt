@@ -1,0 +1,14 @@
+Intercept: 260032.36
+area: 235.97
+bedrooms: 76778.70
+bathrooms: 1094444.79
+stories: 407476.59
+mainroad: 367919.95
+guestroom: 231610.04
+basement: 390251.18
+hotwaterheating: 684649.89
+airconditioning: 791426.74
+parking: 224841.91
+prefarea: 629890.57
+furnishingstatus_semi-furnished: -126881.82
+furnishingstatus_unfurnished: -413645.06
