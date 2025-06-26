@@ -36,8 +36,10 @@ pip install pandas scikit-learn matplotlib
 
 # 2. Run the model script
 python regression_model.py
-.Dataset: You can use any dataset relevant to 
-📖 Interview Questions & Answers
+
+---
+
+## 📖 Interview Questions & Answers
 1. What assumptions does linear regression make?
 Linearity
 
